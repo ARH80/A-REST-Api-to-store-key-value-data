@@ -12,7 +12,7 @@ In the main file we use the functions in api file and a package named fastapi to
 ### Clone the project
 
 ```
-git clone https://github.com/
+git clone https://github.com/ARH80/A-REST-Api-to-store-key-value-data.git
 ```
 
 ### Install dependencies
